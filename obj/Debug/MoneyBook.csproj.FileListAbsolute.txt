@@ -1,0 +1,12 @@
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\bin\Debug\MoneyBook.exe.config
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fLogin.resources
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fMain.resources
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.Properties.Resources.resources
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.csproj.GenerateResource.Cache
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\bin\Debug\MoneyBook.exe
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\bin\Debug\MoneyBook.pdb
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.exe
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.pdb
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fIN.resources
+c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fOut.resources
+C:\Users\COM_A\Documents\Visual Studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fFilelist.resources
