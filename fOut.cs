@@ -50,5 +50,10 @@ namespace MoneyBook
             tbAmt.Text = 금액.ToString("N0");
             DialogResult = System.Windows.Forms.DialogResult.OK;
         }
+
+        private void fOut_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

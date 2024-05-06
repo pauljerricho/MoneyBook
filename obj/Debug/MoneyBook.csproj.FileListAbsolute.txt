@@ -10,3 +10,17 @@ c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Deb
 c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fIN.resources
 c:\users\com_a\documents\visual studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fOut.resources
 C:\Users\COM_A\Documents\Visual Studio 2013\Projects\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fFilelist.resources
+C:\Users\COM_B\source\repos\MoneyBook\bin\Debug\MoneyBook.exe.config
+C:\Users\COM_B\source\repos\MoneyBook\bin\Debug\MoneyBook.exe
+C:\Users\COM_B\source\repos\MoneyBook\bin\Debug\MoneyBook.pdb
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.csproj.AssemblyReference.cache
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.fFilelist.resources
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.fOut.resources
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.fIN.resources
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.fLogin.resources
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.fMain.resources
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.Properties.Resources.resources
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.csproj.GenerateResource.cache
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.csproj.CoreCompileInputs.cache
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.exe
+C:\Users\COM_B\source\repos\MoneyBook\obj\Debug\MoneyBook.pdb
